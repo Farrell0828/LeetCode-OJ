@@ -1,4 +1,9 @@
-/* 1.cpp -- #1 of LeetCode OJ
+/**
+ * 1.cpp -- #1 of LeetCode OJ
+ *
+ * Source: https://leetcode.com/problems/two-sum/?tab=Description
+ * Author: Farrell Meng
+ * Date:   2017-03-03
  *
  * Given an array of integers, return indices of the two numbers such
  * that they add up to a specific target.
