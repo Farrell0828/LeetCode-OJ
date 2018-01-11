@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.617 Merge Two Binary Tre
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.344 Reverse String", "NO.344 Reverse String\NO.344 Reverse String.vcxproj", "{CEEB3E6C-07EF-4B08-ACCB-FC2FFEC256EA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.561 Array Partition I", "NO.561 Array Partition I\NO.561 Array Partition I.vcxproj", "{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{CEEB3E6C-07EF-4B08-ACCB-FC2FFEC256EA}.Release|x64.Build.0 = Release|x64
 		{CEEB3E6C-07EF-4B08-ACCB-FC2FFEC256EA}.Release|x86.ActiveCfg = Release|Win32
 		{CEEB3E6C-07EF-4B08-ACCB-FC2FFEC256EA}.Release|x86.Build.0 = Release|Win32
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Debug|x64.ActiveCfg = Debug|x64
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Debug|x64.Build.0 = Debug|x64
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Debug|x86.Build.0 = Debug|Win32
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Release|x64.ActiveCfg = Release|x64
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Release|x64.Build.0 = Release|x64
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Release|x86.ActiveCfg = Release|Win32
+		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
