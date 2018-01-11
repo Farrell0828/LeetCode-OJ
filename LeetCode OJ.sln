@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.461 Hamming Distance", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.657 Judge Route Circle", "NO.657 Judge Route Circle\NO.657 Judge Route Circle.vcxproj", "{73D595FC-2E58-4AA6-BC23-621AD9A32B6A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.617 Merge Two Binary Trees", "NO.617 Merge Two Binary Trees\NO.617 Merge Two Binary Trees.vcxproj", "{499305DE-4876-4B3E-A57A-4F239A91CFF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{73D595FC-2E58-4AA6-BC23-621AD9A32B6A}.Release|x64.Build.0 = Release|x64
 		{73D595FC-2E58-4AA6-BC23-621AD9A32B6A}.Release|x86.ActiveCfg = Release|Win32
 		{73D595FC-2E58-4AA6-BC23-621AD9A32B6A}.Release|x86.Build.0 = Release|Win32
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Debug|x64.ActiveCfg = Debug|x64
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Debug|x64.Build.0 = Debug|x64
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Debug|x86.Build.0 = Debug|Win32
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Release|x64.ActiveCfg = Release|x64
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Release|x64.Build.0 = Release|x64
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Release|x86.ActiveCfg = Release|Win32
+		{499305DE-4876-4B3E-A57A-4F239A91CFF8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
