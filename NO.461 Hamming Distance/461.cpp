@@ -43,4 +43,5 @@ int main() {
 	Solution s;
 	int x = 1, y = 4;
 	cout << s.hammingDistance(x, y) << endl;
+	return 0;
 }
