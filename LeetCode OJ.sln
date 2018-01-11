@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.344 Reverse String", "NO
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.561 Array Partition I", "NO.561 Array Partition I\NO.561 Array Partition I.vcxproj", "{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.476 Number Complement", "NO.476 Number Complement\NO.476 Number Complement.vcxproj", "{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Release|x64.Build.0 = Release|x64
 		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Release|x86.ActiveCfg = Release|Win32
 		{DC60CBB6-110A-4D0C-AD3A-A48C376C511A}.Release|x86.Build.0 = Release|Win32
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Debug|x64.ActiveCfg = Debug|x64
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Debug|x64.Build.0 = Debug|x64
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Debug|x86.Build.0 = Debug|Win32
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Release|x64.ActiveCfg = Release|x64
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Release|x64.Build.0 = Release|x64
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Release|x86.ActiveCfg = Release|Win32
+		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
