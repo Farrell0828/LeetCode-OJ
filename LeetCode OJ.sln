@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.561 Array Partition I", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.476 Number Complement", "NO.476 Number Complement\NO.476 Number Complement.vcxproj", "{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.4 Median of Two Sorted Arrays", "NO.4 Median of Two Sorted Arrays\NO.4 Median of Two Sorted Arrays.vcxproj", "{918714A0-A532-4C32-A6A4-035305FFA339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Release|x64.Build.0 = Release|x64
 		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Release|x86.ActiveCfg = Release|Win32
 		{1F1E3F12-DFF2-437D-8A24-9EB7EB9A1333}.Release|x86.Build.0 = Release|Win32
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Debug|x64.ActiveCfg = Debug|x64
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Debug|x64.Build.0 = Debug|x64
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Debug|x86.ActiveCfg = Debug|Win32
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Debug|x86.Build.0 = Debug|Win32
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Release|x64.ActiveCfg = Release|x64
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Release|x64.Build.0 = Release|x64
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Release|x86.ActiveCfg = Release|Win32
+		{918714A0-A532-4C32-A6A4-035305FFA339}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
