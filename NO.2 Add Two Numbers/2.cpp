@@ -27,89 +27,62 @@ struct ListNode
     ListNode(int x) : val(x), next(NULL) {}
 };
 
-class Solution
-{
+class Solution {
 public:
-	ListNode* addTwoNumbers(ListNode* l1, ListNode* l2)
-	{
-		size_t l1_int = ToInt(l1);
-		size_t l2_int = ToInt(l2);
-		size_t result_int = l1_int + l2_int;
-		ListNode *result = ToList(result_int);
+	ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+		ListNode* p1 = l1;
+		ListNode* p2 = l2;
+		ListNode* q = NULL;
+		ListNode* result = NULL;
+		int carry = 0;
+		bool first = true;
+		while (p1 && p2) {
+			int sum = p1->val + p2->val + carry;
+			if (first) {
+				q = new ListNode(sum % 10);
+				result = q;
+				first = false;
+			}
+			else {
+				q->next = new ListNode(sum % 10);
+				q = q->next;
+			}
+			carry = sum / 10;
+			p1 = p1->next;
+			p2 = p2->next;
+		}
+		while (p1) {
+			int sum = p1->val + carry;
+			if (first) {
+				q = new ListNode(sum % 10);
+				result = q;
+				first = false;
+			}
+			else {
+				q->next = new ListNode(sum % 10);
+				q = q->next;
+			}
+			carry = sum / 10;
+			p1 = p1->next;
+		}
+		while (p2) {
+			int sum = p2->val + carry;
+			if (first) {
+				q = new ListNode(sum % 10);
+				result = q;
+				first = false;
+			}
+			else {
+				q->next = new ListNode(sum % 10);
+				q = q->next;
+			}
+			carry = sum / 10;
+			p2 = p2->next;
+		}
+		if (carry) {
+			q->next = new ListNode(carry);
+		}
 		return result;
-	}
-
-	// 求链表的节点个数
-	size_t Size(ListNode *l)
-	{
-		size_t n = 1;
-		ListNode *p = l;
-		while (p->next != NULL)
-		{
-			n++;
-			p = p->next;
-		}
-		return n;
-	}
-
-	// 求整数的位数
-	size_t NumOfDigits(size_t n)
-	{
-		if (n == 0)
-		{
-			return 1;
-		}
-		size_t num = 0;
-		size_t i = 0;
-		while (n / Pow(10, i) != 0)
-		{
-			num++;
-			i++;
-		}
-		return num;
-	}
-
-	// x的y次方
-	size_t Pow(size_t x, size_t y)
-	{
-		size_t n = 1;
-		for (int i = 0; i < y; i++)
-		{
-			n = n * x;
-		}
-		return n;
-	}
-
-	// 将链表转换成整数
-	size_t ToInt(ListNode *l)
-	{
-		size_t size = Size(l);
-		size_t value = 0;
-		ListNode *p = l;
-		for (int i = 0; i < size; i++)
-		{
-			value += p->val * Pow(10, i);
-			p = p->next;
-		}
-		return value;
-	}
-
-	// 将整数转换成链表
-	ListNode * ToList(size_t n)
-	{
-		size_t num = NumOfDigits(n);
-		ListNode *last = new ListNode(0);
-		ListNode *p = last;
-
-		for (int i = 0; i < num; i++)
-		{
-			p->val = n / Pow(10, num - i - 1);
-			n = n - p->val * Pow(10, num - i - 1);
-			ListNode *previous_node = new ListNode(0);
-			previous_node->next = p;
-			p = previous_node;
-		}
-		return p->next;
 	}
 };
 
