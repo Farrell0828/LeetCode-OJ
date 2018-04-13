@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
  * Author: Farrell Meng
- * Date:   2018-04-10
+ * Creation Date: 2018-04-10
+ * Update Date:   2018-04-10
+ * Submission Result: Accepted
  *
  * There are two sorted arrays nums1 and nums2 of size m and n respectively.
  *

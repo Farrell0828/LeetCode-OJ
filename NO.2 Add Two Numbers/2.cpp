@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/add-two-numbers/?tab=Description
  * Author: Farrell Meng
- * Date:   2017-03-03
+ * Creation Date: 2017-03-03
+ * Update Date:   2018-04-10
+ * Submission Result: Accepted
  *
  * You are given two non-empty linked lists representing two non-negative
  * integers. The digits are stored in reverse order and each of their nodes

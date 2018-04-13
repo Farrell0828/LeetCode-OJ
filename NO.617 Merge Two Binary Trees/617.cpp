@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/merge-two-binary-trees/description/
  * Author: Farrell Meng
- * Date:   2018-01-11
+ * Creation Date: 2018-01-11
+ * Update Date:   2018-01-11
+ * Submission Result: Accepted
  *
  * Given two binary trees and imagine that when you put one of them to cover
  * the other, some nodes of the two trees are overlapped while the others are not.

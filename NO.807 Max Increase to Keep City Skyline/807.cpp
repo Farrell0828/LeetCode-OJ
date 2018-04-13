@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/
  * Author: Farrell Meng
- * Date:   2018-04-13
+ * Creation Date: 2018-04-13
+ * Update Date:   2018-04-13
+ * Submission Result: Accepted
  *
  * In a 2 dimensional array grid, each value grid[i][j] represents the height of a building 
  * located there. We are allowed to increase the height of any number of buildings, by any 

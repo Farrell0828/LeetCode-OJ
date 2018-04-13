@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/hamming-distance/description/
  * Author: Farrell Meng
- * Date:   2018-01-11
+ * Creation Date: 2018-01-11
+ * Update Date:   2018-01-11
+ * Submission Result: Accepted
  *
  * The Hamming distance between two integers is the number of positions at
  * which the corresponding bits are different.

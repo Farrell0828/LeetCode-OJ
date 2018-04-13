@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/two-sum/?tab=Description
  * Author: Farrell Meng
- * Date:   2017-03-03
+ * Creation Date: 2017-03-03
+ * Update Date:   2017-03-03
+ * Submission Result: Accepted
  *
  * Given an array of integers, return indices of the two numbers such
  * that they add up to a specific target.

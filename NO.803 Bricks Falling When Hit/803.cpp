@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/bricks-falling-when-hit/description/
  * Author: Farrell Meng
- * Date:   2018-04-10
+ * Creation Date: 2018-04-10
+ * Update Date:   2018-04-12
+ * Submission Result: Time Limit Exceeded
  *
  * We have a grid of 1s and 0s; the 1s in a cell represent bricks.
  * A brick will not drop if and only if it is directly connected to the top of the grid,

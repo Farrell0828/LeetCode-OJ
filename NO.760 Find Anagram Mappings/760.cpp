@@ -3,7 +3,9 @@
 *
 * Source: https://leetcode.com/problems/find-anagram-mappings/description/
 * Author: Farrell Meng
-* Date:   2018-01-11
+* Creation Date: 2018-01-11
+* Update Date:   2018-01-11
+* Submission Result: Accepted
 *
 * Given two lists Aand B, and B is an anagram of A. B is an anagram of A
 * means B is made by randomizing the order of the elements in A.

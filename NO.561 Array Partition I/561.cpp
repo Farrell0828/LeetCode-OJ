@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/array-partition-i/description/
  * Author: Farrell Meng
- * Date:   2018-01-11
+ * Creation Date: 2018-01-11
+ * Update Date:   2018-01-11
+ * Submission Result: Accepted
  *
  * Given an array of 2n integers, your task is to group these integers into
  * n pairs of integer, say (a1, b1), (a2, b2), ..., (an, bn) which makes

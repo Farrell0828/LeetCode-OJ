@@ -3,7 +3,8 @@
  *
  * Source: https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/
  * Author: Farrell Meng
- * Date:   2018-04-13
+ * Creation Date: 2018-04-13
+ * Update Date:   2018-04-13
  * Submission Result: Accepted
  * 
  * You're given strings J representing the types of stones that are jewels, 

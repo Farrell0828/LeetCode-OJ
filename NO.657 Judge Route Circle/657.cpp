@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/judge-route-circle/description/
  * Author: Farrell Meng
- * Date:   2018-01-11
+ * Creation Date: 2018-01-11
+ * Update Date:   2018-01-11
+ * Submission Result: Accepted
  *
  * Initially, there is a Robot at position (0, 0). Given a sequence of its
  * moves, judge if this robot makes a circle, which means it moves back to

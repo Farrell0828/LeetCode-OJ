@@ -3,7 +3,9 @@
  *
  * Source: https://leetcode.com/problems/reverse-string/description/
  * Author: Farrell Meng
- * Date:   2018-01-11
+ * Creation Date: 2018-01-11
+ * Update Date:   2018-01-11
+ * Submission Result: Accepted
  *
  * Write a function that takes a string as input and returns the string reversed.
  *

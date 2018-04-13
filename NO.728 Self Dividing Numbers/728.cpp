@@ -3,7 +3,9 @@
 *
 * Source: https://leetcode.com/problems/self-dividing-numbers/description/
 * Author: Farrell Meng
-* Date:   2018-01-11
+* Creation Date: 2018-01-11
+* Update Date:   2018-01-11
+* Submission Result: Accepted
 *
 * A self - dividing number is a number that is divisible by every digit it contains.
 * For example, 128 is a self - dividing number 
