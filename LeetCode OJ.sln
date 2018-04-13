@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.4 Median of Two Sorted A
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.803 Bricks Falling When Hit", "NO.803 Bricks Falling When Hit\NO.803 Bricks Falling When Hit.vcxproj", "{1894148E-BBDB-445B-804D-D66936EB0437}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.807 Max Increase to Keep City Skyline", "NO.807 Max Increase to Keep City Skyline\NO.807 Max Increase to Keep City Skyline.vcxproj", "{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{1894148E-BBDB-445B-804D-D66936EB0437}.Release|x64.Build.0 = Release|x64
 		{1894148E-BBDB-445B-804D-D66936EB0437}.Release|x86.ActiveCfg = Release|Win32
 		{1894148E-BBDB-445B-804D-D66936EB0437}.Release|x86.Build.0 = Release|Win32
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Debug|x64.ActiveCfg = Debug|x64
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Debug|x64.Build.0 = Debug|x64
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Debug|x86.Build.0 = Debug|Win32
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Release|x64.ActiveCfg = Release|x64
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Release|x64.Build.0 = Release|x64
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Release|x86.ActiveCfg = Release|Win32
+		{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
