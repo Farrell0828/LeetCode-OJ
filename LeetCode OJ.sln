@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.0 Test", "NO.0 Test\NO.0 Test.vcxproj", "{7B70B710-74CC-4D59-886E-16DCC50D16AF}"
 EndProject
@@ -32,6 +32,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.807 Max Increase to Keep City Skyline", "NO.807 Max Increase to Keep City Skyline\NO.807 Max Increase to Keep City Skyline.vcxproj", "{CEBC433A-9B65-4BC6-B79D-169BBAAA8287}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.771 Jewels and Stones", "NO.771 Jewels and Stones\NO.771 Jewels and Stones.vcxproj", "{40EB8E01-1E10-426C-B02A-E716370328F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.73 Set Matrix Zeroes", "NO.73 Set Matrix Zeroes\NO.73 Set Matrix Zeroes.vcxproj", "{5D988CAD-CDB4-4765-9124-C15D13339079}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,8 +163,19 @@ Global
 		{40EB8E01-1E10-426C-B02A-E716370328F5}.Release|x64.Build.0 = Release|x64
 		{40EB8E01-1E10-426C-B02A-E716370328F5}.Release|x86.ActiveCfg = Release|Win32
 		{40EB8E01-1E10-426C-B02A-E716370328F5}.Release|x86.Build.0 = Release|Win32
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Debug|x64.ActiveCfg = Debug|x64
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Debug|x64.Build.0 = Debug|x64
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Debug|x86.Build.0 = Debug|Win32
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Release|x64.ActiveCfg = Release|x64
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Release|x64.Build.0 = Release|x64
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Release|x86.ActiveCfg = Release|Win32
+		{5D988CAD-CDB4-4765-9124-C15D13339079}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800D4BBD-F663-4022-A1A0-3625C2582CA9}
 	EndGlobalSection
 EndGlobal
