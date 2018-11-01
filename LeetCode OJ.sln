@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.73 Set Matrix Zeroes", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.79 Word Search", "NO.79 Word Search\NO.79 Word Search.vcxproj", "{54D3565E-4B0D-480D-8B04-DFA2A29699BA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.203 Remove Linked List Elements", "NO.203 Remove Linked List Elements\NO.203 Remove Linked List Elements.vcxproj", "{7DECDC90-0624-4F68-A75B-E88E71642A0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Release|x64.Build.0 = Release|x64
 		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Release|x86.ActiveCfg = Release|Win32
 		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Release|x86.Build.0 = Release|Win32
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Debug|x64.ActiveCfg = Debug|x64
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Debug|x64.Build.0 = Debug|x64
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Debug|x86.ActiveCfg = Debug|Win32
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Debug|x86.Build.0 = Debug|Win32
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Release|x64.ActiveCfg = Release|x64
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Release|x64.Build.0 = Release|x64
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Release|x86.ActiveCfg = Release|Win32
+		{7DECDC90-0624-4F68-A75B-E88E71642A0A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
