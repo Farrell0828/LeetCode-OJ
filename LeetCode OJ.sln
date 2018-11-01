@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.771 Jewels and Stones", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.73 Set Matrix Zeroes", "NO.73 Set Matrix Zeroes\NO.73 Set Matrix Zeroes.vcxproj", "{5D988CAD-CDB4-4765-9124-C15D13339079}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.79 Word Search", "NO.79 Word Search\NO.79 Word Search.vcxproj", "{54D3565E-4B0D-480D-8B04-DFA2A29699BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{5D988CAD-CDB4-4765-9124-C15D13339079}.Release|x64.Build.0 = Release|x64
 		{5D988CAD-CDB4-4765-9124-C15D13339079}.Release|x86.ActiveCfg = Release|Win32
 		{5D988CAD-CDB4-4765-9124-C15D13339079}.Release|x86.Build.0 = Release|Win32
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Debug|x64.ActiveCfg = Debug|x64
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Debug|x64.Build.0 = Debug|x64
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Debug|x86.Build.0 = Debug|Win32
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Release|x64.ActiveCfg = Release|x64
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Release|x64.Build.0 = Release|x64
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Release|x86.ActiveCfg = Release|Win32
+		{54D3565E-4B0D-480D-8B04-DFA2A29699BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
