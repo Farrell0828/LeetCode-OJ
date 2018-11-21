@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.21 Merge Two Sorted List
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.328 Odd Even Linked List", "NO.328 Odd Even Linked List\NO.328 Odd Even Linked List.vcxproj", "{C85D079F-F32D-49C7-8B7C-297834D0EB80}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.142 Linked List Cycle II", "NO.142 Linked List Cycle II\NO.142 Linked List Cycle II.vcxproj", "{A9C79D9D-3DC6-46B6-931E-022A7A383B08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{C85D079F-F32D-49C7-8B7C-297834D0EB80}.Release|x64.Build.0 = Release|x64
 		{C85D079F-F32D-49C7-8B7C-297834D0EB80}.Release|x86.ActiveCfg = Release|Win32
 		{C85D079F-F32D-49C7-8B7C-297834D0EB80}.Release|x86.Build.0 = Release|Win32
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Debug|x64.ActiveCfg = Debug|x64
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Debug|x64.Build.0 = Debug|x64
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Debug|x86.Build.0 = Debug|Win32
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Release|x64.ActiveCfg = Release|x64
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Release|x64.Build.0 = Release|x64
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Release|x86.ActiveCfg = Release|Win32
+		{A9C79D9D-3DC6-46B6-931E-022A7A383B08}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
