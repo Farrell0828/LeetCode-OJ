@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.929 Unique Email Address
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.654 Maximum Binary Tree", "NO.654 Maximum Binary Tree\NO.654 Maximum Binary Tree.vcxproj", "{AA32ACF4-DE3F-4E22-B03F-E439EFF5E3E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.104 Maximum Depth of Binary Tree", "NO.104 Maximum Depth of Binary Tree\NO.104 Maximum Depth of Binary Tree.vcxproj", "{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{AA32ACF4-DE3F-4E22-B03F-E439EFF5E3E4}.Release|x64.Build.0 = Release|x64
 		{AA32ACF4-DE3F-4E22-B03F-E439EFF5E3E4}.Release|x86.ActiveCfg = Release|Win32
 		{AA32ACF4-DE3F-4E22-B03F-E439EFF5E3E4}.Release|x86.Build.0 = Release|Win32
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Debug|x64.ActiveCfg = Debug|x64
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Debug|x64.Build.0 = Debug|x64
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Debug|x86.Build.0 = Debug|Win32
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Release|x64.ActiveCfg = Release|x64
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Release|x64.Build.0 = Release|x64
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Release|x86.ActiveCfg = Release|Win32
+		{05E1F983-D068-40FE-9A88-91B5FE4C9EB9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
