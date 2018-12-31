@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.942 DI String Match", "N
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.852 Peak Index in a Mountain Array", "NO.852 Peak Index in a Mountain Array\NO.852 Peak Index in a Mountain Array.vcxproj", "{32A6B314-39E5-4D28-B324-F930B926F8C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.922 Sort Array By Parity II", "NO.922 Sort Array By Parity II\NO.922 Sort Array By Parity II.vcxproj", "{28B87B65-065C-4582-B956-9F1C5AEC0B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -391,6 +393,14 @@ Global
 		{32A6B314-39E5-4D28-B324-F930B926F8C9}.Release|x64.Build.0 = Release|x64
 		{32A6B314-39E5-4D28-B324-F930B926F8C9}.Release|x86.ActiveCfg = Release|Win32
 		{32A6B314-39E5-4D28-B324-F930B926F8C9}.Release|x86.Build.0 = Release|Win32
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Debug|x64.ActiveCfg = Debug|x64
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Debug|x64.Build.0 = Debug|x64
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Debug|x86.ActiveCfg = Debug|Win32
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Debug|x86.Build.0 = Debug|Win32
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Release|x64.ActiveCfg = Release|x64
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Release|x64.Build.0 = Release|x64
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Release|x86.ActiveCfg = Release|Win32
+		{28B87B65-065C-4582-B956-9F1C5AEC0B28}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
