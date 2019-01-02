@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.883 Projection Area of 3
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.908 Smallest Range I", "NO.908 Smallest Range I\NO.908 Smallest Range I.vcxproj", "{DA04D8BD-6829-4C09-9688-B340CEF458E0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NO.867 Transpose Matrix", "NO.867 Transpose Matrix\NO.867 Transpose Matrix.vcxproj", "{E7E5C901-21F6-4FAF-9CE8-D879B286B374}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{DA04D8BD-6829-4C09-9688-B340CEF458E0}.Release|x64.Build.0 = Release|x64
 		{DA04D8BD-6829-4C09-9688-B340CEF458E0}.Release|x86.ActiveCfg = Release|Win32
 		{DA04D8BD-6829-4C09-9688-B340CEF458E0}.Release|x86.Build.0 = Release|Win32
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Debug|x64.ActiveCfg = Debug|x64
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Debug|x64.Build.0 = Debug|x64
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Debug|x86.Build.0 = Debug|Win32
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Release|x64.ActiveCfg = Release|x64
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Release|x64.Build.0 = Release|x64
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Release|x86.ActiveCfg = Release|Win32
+		{E7E5C901-21F6-4FAF-9CE8-D879B286B374}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
